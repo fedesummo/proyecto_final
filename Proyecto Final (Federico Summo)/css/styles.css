@@ -1,0 +1,27 @@
+.navbar-brand {
+  font-family: "Abril Fatface", cursive;
+  color: white;
+}
+
+.horizontalLine {
+  width: 80%;
+  height: 1.5px;
+  background-color: black;
+  border: 1px solid black;
+}
+
+img {
+  width: 100%;
+}
+
+.sideArticle {
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.js-logo {
+  -webkit-filter: invert(1);
+          filter: invert(1);
+}
+/*# sourceMappingURL=styles.css.map */
